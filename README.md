@@ -16,12 +16,16 @@ Here are some ideas to get you started:
 -->
 
 # 협업을 위한 규칙
-- Git branch & naming
+- [Git branch & naming](#git-branch--naming)
 - [Commit Convention](#commit-convention)
 - [코드 스타일 가이드 PEP8](#코드-스타일-가이드-pep8)
-- 보일러플레이트
+- [보일러플레이트](#보일러플레이트)
 
 ## Git branch & naming
+<details><summary>
+깃 브랜치 전략이란?
+</summary>
+
 브랜치 전략: 브랜치 생성에 규칙을 만들어 협업을 유연하게 하는 방법
 
 ### 브랜치의 종류
@@ -40,8 +44,13 @@ Supporting branches
    ex) feature/login, feature/{issue-number}-{feature-name}
 3. `release`는 release-... 형식 추천 ex) release-1.7
 4. `hotfix`는 hotfix-... 형식 추천 ex) hotfix-1.4.1
+</details>
 
 ## Commit Convention
+<details><summary>
+Commit Convention 란?
+</summary>
+
 정해진 규칙에 따라 커밋 메시지를 기재함으로써  
 프로젝트를 효율적이고 안정적으로 관리할 수 있음
 
@@ -81,12 +90,19 @@ footer: 코드 작업과 관련된 이슈 번호 또는 참조 링크 등 추가
 - ex) `Fixes: #45 Related to: #34, #23`
 
 ### 커밋 메시지 자동화 툴: [Commitlint](https://commitlint.js.org/#/), [Husky](https://typicode.github.io/husky/#/)
+</details>
 
 ## 코드 스타일 가이드 PEP8
+<details><summary>
+PEP8 이란?
+</summary>
+
 [PEP8 전체 가이드](https://peps.python.org/pep-0008/)
+
 - 파이썬 코드를 어떻게 구상할 지 알려주는 스타일 가이드
 - 원활한 협업을 위해선 공통된 스타일 공유가 필요하다.
 - 일관성 있는 스타일은 가독성과 유지 보수성을 높일 수 있다.
+</details>
 
 ## 보일러플레이트
 보일러플레이트 코드: 최소한의 변경으로 여러 곳에서 재사용되는 코드
