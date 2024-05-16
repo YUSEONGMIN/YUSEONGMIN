@@ -1,6 +1,6 @@
 ### 😄 안녕하세요!
 
-## 1. 이런 프로그램을 다룰 수 있습니다.
+### 1. 이런 프로그램을 다룰 수 있습니다.
 
 ```
 Back-end: Linux, Django, Flask, SpringBoot
@@ -15,19 +15,20 @@ Language: Java, Python, R, SAS, SPSS
 ```
 
 ### 2. 이런 경험을 해봤습니다.
-
+1. 
 
 ### 3. 이런 일을 하고 싶습니다.
 
-
-- AWS Summit 참여
+###
 
 
 
 
 ## 기술 질문 정리
 
-- **앱 개발자 공통 기술 질문: 9개 중 5개 이상 잘 대답할 수 있어야 함 *(삼각형을 클릭하세요)***
+
+- **앱 개발자 기술 질문**
+- 
     - [ ]  Q1. PNG와 JPG의 차이점은?
     - [ ]  Q2. Dynamic Programming이란?
     - [ ]  Q3. Virtual Memory란?
@@ -37,7 +38,7 @@ Language: Java, Python, R, SAS, SPSS
     - [ ]  Q7. 비대칭 암호화란?
     - [ ]  Q8. HDD, SSD, DRAM 각각의 성능은?
     - [ ]  Q9. GIT의 장점은?
-- **Android 개발자 기술 질문: 9개 중 5개 이상 잘 대답할 수 있어야 함 *(삼각형을 클릭하세요)***
+- **Android 개발자 기술 질문**
     - [ ]  Q1. DIP란?
     - [ ]  Q2. ConstraintLayout의 장점은?
     - [ ]  Q3. Activity 생명주기는?
@@ -47,7 +48,7 @@ Language: Java, Python, R, SAS, SPSS
     - [ ]  Q7. Looper란?
     - [ ]  Q8. MultiDex란?
     - [ ]  Q9. Proguard의 원리는?
-- **iOS 개발자 기술 질문: 9개 중 5개 이상 잘 대답할 수 있어야 함 *(삼각형을 클릭하세요)***
+- **iOS 개발자 기술 질문**
     - [ ]  Q1. Auto Layout의 장단점은?
     - [ ]  Q2. MVC 패턴이란?
     - [ ]  Q3. KVC와 KVO란?
@@ -57,7 +58,7 @@ Language: Java, Python, R, SAS, SPSS
     - [ ]  Q7. HTTP/2의 특징은?
     - [ ]  Q8. Memory Leak의 대처방법은?
     - [ ]  Q9. 이미지 리스트의 성능 향상법은?
-- **Vrew 데스크탑 앱 개발자 기술 질문: 9개 중 5개 이상 잘 대답할 수 있어야 함 *(삼각형을 클릭하세요)***
+- **Vrew 데스크탑 앱 개발자 기술 질문**
     - [ ]  Q1. UTF-8 이란?
     - [ ]  Q2. React 란?
     - [ ]  Q3. Web Browser 의 프로세싱 중 Reflow 란?
@@ -67,7 +68,7 @@ Language: Java, Python, R, SAS, SPSS
     - [ ]  Q7. 프로세스 간 통신(IPC) 이란?
     - [ ]  Q8. C++ 에서 다형성이란?
     - [ ]  Q9. 그래픽카드를 이용한 하드웨어 가속이란?
-- **딥러닝 모델 개발자 기술 질문:** **9개 중 5개 이상 잘 대답할 수 있어야 함 *(삼각형을 클릭하세요)***
+- **딥러닝 모델 개발자 기술 질문**
     - [ ]  Gradient Descent란?
     - [ ]  Loss Surface란?
     - [ ]  Attention이란?
@@ -77,7 +78,7 @@ Language: Java, Python, R, SAS, SPSS
     - [ ]  Federated Learning이란?
     - [ ]  SVD란?
     - [ ]  중심극한정리란?
-- **백엔드 개발자 기술 질문:** **15개 중 8개 이상 잘 대답할 수 있어야 함 *(삼각형을 클릭하세요)***
+- **백엔드 개발자 기술 질문**
     - [ ]  Q1. Base64 인코딩이란?
     - [ ]  Q2. 사용자 패스워드를 전송/보관하는 방법은?
     - [ ]  Q3. system call이란?
@@ -94,20 +95,15 @@ Language: Java, Python, R, SAS, SPSS
     - [ ]  Q14. 최근 사회적 이슈가 된 보안 관련 사고 몇가지의 원인과 대책은?
     - [ ]  Q15. 대용량 로그 시스템을 구축한다면 어떻게 하겠는가?
  
-    - [ ]  
 
-# 협업을 위한 규칙
-- [Git branch & naming](#git-branch--naming)
-- [Commit Convention](#commit-convention)
-- [코드 스타일 가이드 PEP8](#코드-스타일-가이드-pep8)
-- [보일러플레이트](#보일러플레이트)
+    
+### 협업을 위한 규칙
 
-## Git branch & naming
 <details><summary>
-깃 브랜치 전략이란?
+Git branch & naming
 </summary>
 
-브랜치 전략: 브랜치 생성에 규칙을 만들어 협업을 유연하게 하는 방법
+Git 브랜치 전략: 브랜치 생성에 규칙을 만들어 협업을 유연하게 하는 방법
 
 ### 브랜치의 종류
 Main branch
@@ -127,9 +123,8 @@ Supporting branches
 4. `hotfix`는 hotfix-... 형식 추천 ex) hotfix-1.4.1
 </details>
 
-## Commit Convention
 <details><summary>
-Commit Convention 란?
+Commit Convention
 </summary>
 
 정해진 규칙에 따라 커밋 메시지를 기재함으로써  
@@ -173,9 +168,8 @@ footer: 코드 작업과 관련된 이슈 번호 또는 참조 링크 등 추가
 ### 커밋 메시지 자동화 툴: [Commitlint](https://commitlint.js.org/#/), [Husky](https://typicode.github.io/husky/#/)
 </details>
 
-## 코드 스타일 가이드 PEP8
 <details><summary>
-PEP8 이란?
+코드 스타일 가이드 PEP8
 </summary>
 
 [PEP8 전체 가이드](https://peps.python.org/pep-0008/)
@@ -185,6 +179,16 @@ PEP8 이란?
 - 일관성 있는 스타일은 가독성과 유지 보수성을 높일 수 있다.
 </details>
 
-## 보일러플레이트
+<details><summary>
+보일러플레이트
+ </summary>
+
 보일러플레이트 코드: 최소한의 변경으로 여러 곳에서 재사용되는 코드
 - 변경의 횟수를 최소화하고 반복적인 일을 줄여 개발 소요 시간을 줄일 수 있다.
+</details>
+
+
+
+
+
+
