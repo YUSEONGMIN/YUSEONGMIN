@@ -1,24 +1,120 @@
 ### 😄 안녕하세요!
 
-이런 언어를 다룰 수 있습니다.
+## 1. 이런 프로그램을 다룰 수 있습니다.
 
-## 🌱: Java, AWS, Spark, Hadoop
+```
+협업툴: Git, Slack, Notion
+Data: AirFlow, Hadoop, 
 
-## 🌳: Python, SPSS, SAS, R, MySQL
+Infra: AWS(EC2, S3, Lambda, RDS, CodePipeline, EMR), ELK Stack
+Deploy: Docker
+Front-end: CSS(Bootstrap)
+Back-end: Linux, Java(Spring Boot), Python(Django, Flask) 
+Analysis: Python(Pandas, Scikit-Learn, TensorFlow, PySpark), R, SAS, SPSS
+DB: MySQL
 
-이런 경험을 해봤습니다.
-## 📋
-- 
+🌱: Java, Spark, Hadoop, AirFlow AWS(Ec2, RDS, Lambda)
+🌳: Python(Pandas, ), SPSS, SAS, R, MySQL
+```
 
-이런 일을 하고 싶습니다.
-## 
+Common: JavaScript, TypeScript, GraphQL & Apollo, ESLint, Prettier, Jest, Git, Jira, Notion, Figma
 
-이런 것을 더 배워보려고 합니다.
+Infra: AWS(EC2, ALB, S3, Route53, CloudFront, Lambda, RDS, CodeDeploy, CodePipeline, ECR, IAM, CloudFormation, WAF, GuardDuty), ELK Stack(Elasticsearch, Logstash, Kibana)
 
-## 🔭: Kubernetes
+Deploy: Docker, docker-compose, GitHub Actions, AWS
+
+Back-end : Node.js, NestJS(TypeORM, EJS), PM2, Linux, NginX
+
+Front-end: React, NextJS, styled-components
+
+
+DB: RDBMS(MySQL), Elasticsearch
+
+Legacy: Apache HTTP Server, PHP7
+
+### 2. 이런 경험을 해봤습니다.
+
+
+### 3. 이런 일을 하고 싶습니다.
+
+
+- AWS Summit 참여
+
+
 
 
 ## 간단한 기술 질문 정리
+
+**술 질문**
+
+- **앱 개발자 공통 기술 질문: 9개 중 5개 이상 잘 대답할 수 있어야 함 *(삼각형을 클릭하세요)***
+    - [ ]  Q1. PNG와 JPG의 차이점은?
+    - [ ]  Q2. Dynamic Programming이란?
+    - [ ]  Q3. Virtual Memory란?
+    - [ ]  Q4. Garbage Collection이란?
+    - [ ]  Q5. Cache란?
+    - [ ]  Q6. Database Index 추가의 장단점은?
+    - [ ]  Q7. 비대칭 암호화란?
+    - [ ]  Q8. HDD, SSD, DRAM 각각의 성능은?
+    - [ ]  Q9. GIT의 장점은?
+- **Android 개발자 기술 질문: 9개 중 5개 이상 잘 대답할 수 있어야 함 *(삼각형을 클릭하세요)***
+    - [ ]  Q1. DIP란?
+    - [ ]  Q2. ConstraintLayout의 장점은?
+    - [ ]  Q3. Activity 생명주기는?
+    - [ ]  Q4. WeakReference란?
+    - [ ]  Q5. Parcelable이란?
+    - [ ]  Q6. 고해상도 이미지의 로딩 방법은?
+    - [ ]  Q7. Looper란?
+    - [ ]  Q8. MultiDex란?
+    - [ ]  Q9. Proguard의 원리는?
+- **iOS 개발자 기술 질문: 9개 중 5개 이상 잘 대답할 수 있어야 함 *(삼각형을 클릭하세요)***
+    - [ ]  Q1. Auto Layout의 장단점은?
+    - [ ]  Q2. MVC 패턴이란?
+    - [ ]  Q3. KVC와 KVO란?
+    - [ ]  Q4. Swift의 특징은?
+    - [ ]  Q5. Higher Order Function이란?
+    - [ ]  Q6. Method Swizzling이란?
+    - [ ]  Q7. HTTP/2의 특징은?
+    - [ ]  Q8. Memory Leak의 대처방법은?
+    - [ ]  Q9. 이미지 리스트의 성능 향상법은?
+- **Vrew 데스크탑 앱 개발자 기술 질문: 9개 중 5개 이상 잘 대답할 수 있어야 함 *(삼각형을 클릭하세요)***
+    - [ ]  Q1. UTF-8 이란?
+    - [ ]  Q2. React 란?
+    - [ ]  Q3. Web Browser 의 프로세싱 중 Reflow 란?
+    - [ ]  Q4. 함수형 프로그래밍 패러다임이란?
+    - [ ]  Q5. Callback hell 이란?
+    - [ ]  Q6. async I/O 란?
+    - [ ]  Q7. 프로세스 간 통신(IPC) 이란?
+    - [ ]  Q8. C++ 에서 다형성이란?
+    - [ ]  Q9. 그래픽카드를 이용한 하드웨어 가속이란?
+- **딥러닝 모델 개발자 기술 질문:** **9개 중 5개 이상 잘 대답할 수 있어야 함 *(삼각형을 클릭하세요)***
+    - [ ]  Gradient Descent란?
+    - [ ]  Loss Surface란?
+    - [ ]  Attention이란?
+    - [ ]  Transformer란?
+    - [ ]  Collaborative filtering이란?
+    - [ ]  Few-Shot Learning이란?
+    - [ ]  Federated Learning이란?
+    - [ ]  SVD란?
+    - [ ]  중심극한정리란?
+- **백엔드 개발자 기술 질문:** **15개 중 8개 이상 잘 대답할 수 있어야 함 *(삼각형을 클릭하세요)***
+    - [ ]  Q1. Base64 인코딩이란?
+    - [ ]  Q2. 사용자 패스워드를 전송/보관하는 방법은?
+    - [ ]  Q3. system call이란?
+    - [ ]  Q4. .so와 .a 파일의 차이는?
+    - [ ]  Q5. MySQL과 MongoDB의 차이점은?
+    - [ ]  Q6. HTTP/2의 특징은?
+    - [ ]  Q7. Firewall의 동작 원리는?
+    - [ ]  Q8. Docker와 Virtual Machine의 차이점은?
+    - [ ]  Q9. AMD와 Intel CPU의 차이점은?
+    - [ ]  Q10. CRDT란?
+    - [ ]  Q11. CORS란?
+    - [ ]  Q12. CI/CD란?
+    - [ ]  Q13. 동시 사용자 1만명을 지원하는 채팅 서버를 어떻게 만들겠는가?
+    - [ ]  Q14. 최근 사회적 이슈가 된 보안 관련 사고 몇가지의 원인과 대책은?
+    - [ ]  Q15. 대용량 로그 시스템을 구축한다면 어떻게 하겠는가?
+ 
+    - [ ]  
 
 # 협업을 위한 규칙
 - [Git branch & naming](#git-branch--naming)
