@@ -1,23 +1,24 @@
-### Hello World! 👋
+### 😄 안녕하세요!
+
+이런 언어를 다룰 수 있습니다.
+
+## 🌱: Java, AWS, Spark, Hadoop
+
+## 🌳: Python, SPSS, SAS, R, MySQL
+
+이런 경험을 해봤습니다.
+## 📋
+- 
+
+이런 일을 하고 싶습니다.
+## 
+
+이런 것을 더 배워보려고 합니다.
+
+## 🔭: Kubernetes
 
 
-- 🔭 I’m currently working on ...
-- 
-- 🌱 I’m currently learning ...
-- 
-- 👯 I’m looking to collaborate on ...
-- 
-- 🤔 I’m looking for help with ...
-- 
-- 💬 Ask me about ...
-- 
-- 📫 How to reach me: ...
-- 
-- 😄 Pronouns: ...
-- 
-- ⚡ Fun fact: ...
-
-
+## 간단한 기술 질문 정리
 
 # 협업을 위한 규칙
 - [Git branch & naming](#git-branch--naming)
