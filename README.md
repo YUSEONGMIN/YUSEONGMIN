@@ -99,6 +99,8 @@ Language: Java, Python, R, SAS, SPSS
     
 ### 협업을 위한 규칙
 
+디자인패턴
+
 <details><summary>
 Git branch & naming
 </summary>
