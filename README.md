@@ -18,17 +18,18 @@ Language: Java, Python, R, SAS, SPSS
 1. 
 
 ### 3. 이런 일을 하고 싶습니다.
-
-###
+- 
 
 
 
 
 ## 기술 질문 정리
 
-
-- **앱 개발자 기술 질문**
-- 
+<details><summary>
+앱 개발자 기술 질문
+</summary>
+ 
+-
     - [ ]  Q1. PNG와 JPG의 차이점은?
     - [ ]  Q2. Dynamic Programming이란?
     - [ ]  Q3. Virtual Memory란?
@@ -38,7 +39,13 @@ Language: Java, Python, R, SAS, SPSS
     - [ ]  Q7. 비대칭 암호화란?
     - [ ]  Q8. HDD, SSD, DRAM 각각의 성능은?
     - [ ]  Q9. GIT의 장점은?
-- **Android 개발자 기술 질문**
+</details>
+
+<details><summary>
+Android 개발자 기술 질문
+</summary>
+ 
+-
     - [ ]  Q1. DIP란?
     - [ ]  Q2. ConstraintLayout의 장점은?
     - [ ]  Q3. Activity 생명주기는?
@@ -48,7 +55,13 @@ Language: Java, Python, R, SAS, SPSS
     - [ ]  Q7. Looper란?
     - [ ]  Q8. MultiDex란?
     - [ ]  Q9. Proguard의 원리는?
-- **iOS 개발자 기술 질문**
+</details>
+
+<details><summary>
+iOS 개발자 기술 질문
+</summary>
+
+-
     - [ ]  Q1. Auto Layout의 장단점은?
     - [ ]  Q2. MVC 패턴이란?
     - [ ]  Q3. KVC와 KVO란?
@@ -58,7 +71,13 @@ Language: Java, Python, R, SAS, SPSS
     - [ ]  Q7. HTTP/2의 특징은?
     - [ ]  Q8. Memory Leak의 대처방법은?
     - [ ]  Q9. 이미지 리스트의 성능 향상법은?
-- **Vrew 데스크탑 앱 개발자 기술 질문**
+ </details>
+  
+<details><summary>
+ Vrew 데스크탑 앱 개발자 기술 질문
+</summary>
+ 
+ -
     - [ ]  Q1. UTF-8 이란?
     - [ ]  Q2. React 란?
     - [ ]  Q3. Web Browser 의 프로세싱 중 Reflow 란?
@@ -68,7 +87,13 @@ Language: Java, Python, R, SAS, SPSS
     - [ ]  Q7. 프로세스 간 통신(IPC) 이란?
     - [ ]  Q8. C++ 에서 다형성이란?
     - [ ]  Q9. 그래픽카드를 이용한 하드웨어 가속이란?
-- **딥러닝 모델 개발자 기술 질문**
+ </details>
+ 
+<details><summary>
+ 딥러닝 모델 개발자 기술 질문
+</summary>
+ 
+-
     - [ ]  Gradient Descent란?
     - [ ]  Loss Surface란?
     - [ ]  Attention이란?
@@ -78,7 +103,13 @@ Language: Java, Python, R, SAS, SPSS
     - [ ]  Federated Learning이란?
     - [ ]  SVD란?
     - [ ]  중심극한정리란?
-- **백엔드 개발자 기술 질문**
+ </details>
+
+<details><summary>
+백엔드 개발자 기술 질문
+</summary>
+ 
+-
     - [ ]  Q1. Base64 인코딩이란?
     - [ ]  Q2. 사용자 패스워드를 전송/보관하는 방법은?
     - [ ]  Q3. system call이란?
@@ -94,7 +125,7 @@ Language: Java, Python, R, SAS, SPSS
     - [ ]  Q13. 동시 사용자 1만명을 지원하는 채팅 서버를 어떻게 만들겠는가?
     - [ ]  Q14. 최근 사회적 이슈가 된 보안 관련 사고 몇가지의 원인과 대책은?
     - [ ]  Q15. 대용량 로그 시스템을 구축한다면 어떻게 하겠는가?
- 
+</details>
 
     
 ### 협업을 위한 규칙
