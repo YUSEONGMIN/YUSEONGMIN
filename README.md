@@ -3,34 +3,16 @@
 ## 1. 이런 프로그램을 다룰 수 있습니다.
 
 ```
-협업툴: Git, Slack, Notion
-Data: AirFlow, Hadoop, 
+Back-end: Linux, Django, Flask, SpringBoot
+DevOps: AWS CodePipeline, Docker, Github
+Infra: AWS(EC2, S3, Lambda, RDS, EMR), ELK Stack
 
-Infra: AWS(EC2, S3, Lambda, RDS, CodePipeline, EMR), ELK Stack
-Deploy: Docker
-Front-end: CSS(Bootstrap)
-Back-end: Linux, Java(Spring Boot), Python(Django, Flask) 
-Analysis: Python(Pandas, Scikit-Learn, TensorFlow, PySpark), R, SAS, SPSS
+Data: AirFlow, Hadoop, Kafka, Pandas, Scikit-Learn, Spark
 DB: MySQL
 
-🌱: Java, Spark, Hadoop, AirFlow AWS(Ec2, RDS, Lambda)
-🌳: Python(Pandas, ), SPSS, SAS, R, MySQL
+Language: Java, Python, R, SAS, SPSS
+협업툴: Slack, Notion
 ```
-
-Common: JavaScript, TypeScript, GraphQL & Apollo, ESLint, Prettier, Jest, Git, Jira, Notion, Figma
-
-Infra: AWS(EC2, ALB, S3, Route53, CloudFront, Lambda, RDS, CodeDeploy, CodePipeline, ECR, IAM, CloudFormation, WAF, GuardDuty), ELK Stack(Elasticsearch, Logstash, Kibana)
-
-Deploy: Docker, docker-compose, GitHub Actions, AWS
-
-Back-end : Node.js, NestJS(TypeORM, EJS), PM2, Linux, NginX
-
-Front-end: React, NextJS, styled-components
-
-
-DB: RDBMS(MySQL), Elasticsearch
-
-Legacy: Apache HTTP Server, PHP7
 
 ### 2. 이런 경험을 해봤습니다.
 
