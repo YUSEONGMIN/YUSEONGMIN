@@ -4,14 +4,14 @@
 
 ```
 Back-end: Linux, Django, Flask, SpringBoot
-DevOps: AWS CodePipeline, Docker, Github
-Infra: AWS(EC2, S3, Lambda, RDS, EMR), ELK Stack
+ DevOps : AWS(CodePipeline), Docker
+  Infra : AWS(EC2, S3, Lambda, RDS, EMR), ELK Stack
 
-Data: AirFlow, Hadoop, Kafka, Pandas, Scikit-Learn, Spark
-DB: MySQL
+   Data : AirFlow, Hadoop, Kafka, Pandas, Scikit-Learn, Spark
+   DB   : MySQL
 
 Language: Java, Python, R, SAS, SPSS
-협업툴: Slack, Notion
+ 협업툴 : Git, Notion, Slack
 ```
 
 ### 2. 이런 경험을 해봤습니다.
@@ -25,9 +25,7 @@ Language: Java, Python, R, SAS, SPSS
 
 
 
-## 간단한 기술 질문 정리
-
-**술 질문**
+## 기술 질문 정리
 
 - **앱 개발자 공통 기술 질문: 9개 중 5개 이상 잘 대답할 수 있어야 함 *(삼각형을 클릭하세요)***
     - [ ]  Q1. PNG와 JPG의 차이점은?
