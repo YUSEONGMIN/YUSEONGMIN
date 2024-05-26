@@ -12,12 +12,6 @@ Language: Java, Python, R, SAS, SPSS
 협업툴: Git, Notion, Slack
 ```
 
-### 2. 이런 경험을 해봤습니다.
-1. 
-
-### 3. 이런 일을 하고 싶습니다.
-- 
-
 ## 기술 질문 정리
 
 <details><summary>
