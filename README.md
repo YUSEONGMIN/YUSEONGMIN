@@ -125,7 +125,12 @@ iOS 개발자 기술 질문
     
 ### 협업을 위한 규칙
 
+<details><summary>
 디자인패턴
+</summary>
+
+</details>
+
 
 <details><summary>
 Git branch & naming
