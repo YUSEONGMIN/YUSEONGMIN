@@ -20,14 +20,34 @@ Language: Java, Python, R, SAS, SPSS
  
 -
     - [ ]  Q1. PNG와 JPG의 차이점은?
+        - <details>이미지의 투명도 조정 가능 여부</details>
     - [ ]  Q2. Dynamic Programming이란?
+        - <details>큰 문제를 작은문제로 나누어 푸는 문제</details>    
     - [ ]  Q3. Virtual Memory란?
+        - <details>메모리가 실제 메모리보다 많아 보이게 하는 기술</details>    
     - [ ]  Q4. Garbage Collection이란?
+        - <details>메모리 영역에서 필요없는 메모리를 삭제하는 기능</details>    
     - [ ]  Q5. Cache란?
+        - <details>자주 사용하는 데이터나 값을 미리 복사해 놓는 임시 장소</details>    
     - [ ]  Q6. Database Index 추가의 장단점은?
+        - <details>
+            <summary>장점</summary>
+                테이블을 조회하는 속도와 그에 따른 성능을 향상시킬 수 있다.<br>
+                전반적인 시스템의 부하를 줄일 수 있다.  
+        - <details>
+            <summary>단점</summary>
+                인덱스를 관리하기 위해 DB의 약 10%에 해당하는 저장공간이 필요하다.<br>
+                인덱스를 관리하기 위해 추가 작업이 필요하다.<br>
+                인덱스를 잘못 사용할 경우 오히려 성능이 저하되는 역효과가 발생할 수 있다.
     - [ ]  Q7. 비대칭 암호화란?
+        - <details>발신자와 수신자가 서로 다른 두 개의 키를 사용하는 방식으로 양쪽에서 서로 다른 암호화를 사용합니다.</details>    
     - [ ]  Q8. HDD, SSD, DRAM 각각의 성능은?
+        - <details>
+                HDD: 이동식 헤드를 사용하여 회전식 플래터 또는 디스크에 데이터를 기록<br>
+                SSD: NAND 플래시라는 비휘발성 스토리지 기술<br>
+                DRAM: SSD나 HDD와 비교하여 속도가 빠르지만, 휘발성 기억장치
     - [ ]  Q9. GIT의 장점은?
+        - <details>피어리뷰, 브랜칭 기능</details>    
 </details>
 
 <details><summary>
