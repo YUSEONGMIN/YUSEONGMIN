@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F747FF&repeat=false&random=false&width=435&lines=Introduce_)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F747FF&repeat=true&random=false&width=435&lines=Introduce_)](https://git.io/typing-svg)  
 
 ### 🙇‍♀️ 안녕하세요! 데이터 분석가 유성민입니다.
 
