@@ -1,40 +1,49 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=C0CAFF&height=150&section=header&text=Introduce_&fontColor=000000&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F747FF&repeat=false&random=false&width=435&lines=Introduce_)](https://git.io/typing-svg)  
 
-### :wave: 안녕하세요! 데이터 분석가 유성민입니다.
+### 🙇‍♀️ 안녕하세요! 데이터 분석가 유성민입니다.
 
+통계학을 전공하면서 데이터 분석 방법을 배웠습니다.  
+
+> 약 20,000 건의 리뷰 데이터, 78%-> 82% 정확도
+
+---
+
+#### 기술 스택
+
+- <b>Language  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-8A2BE2)
+
+- <b>Data    
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-FF652F?style=flat-square&logo=apache-hadoop&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+
+> Backend  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+> DB  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-
-####   👯 협업 툴
+> 협업툴  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 
-   
-#### :pencil2: Study log
+---
 
-```
-Back-end: Linux, Django, Flask, SpringBoot
-DevOps: AWS(CodePipeline), Docker
-Infra: AWS(EC2, S3, Lambda, RDS, EMR), GCP, ELK Stack
-Data: AirFlow, Hadoop, Kafka, Pandas, Scikit-Learn, Spark
-DB: MySQL, SQLite
-Language: Java, Python, R, SAS, SPSS
-협업툴: Git, Notion, Slack
-```
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YUSEONGMIN&theme=transparent&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUSEONGMIN&layout=compact&theme=transparent&hide_border=true)
 
-### 2. 포트폴리오(프로젝트)
+---
 
-- 준비 중
-
-### 3 기술 질문 정리
+### 기술 질문 정리
 
 <details><summary>
 앱 개발자 기술 질문
@@ -167,7 +176,9 @@ iOS 개발자 기술 질문
     - [ ]  Q15. 대용량 로그 시스템을 구축한다면 어떻게 하겠는가?
 </details>
 
-### 4. 협업을 위한 규칙
+---
+
+### 협업을 위한 규칙
 
 <details><summary>
 디자인패턴
