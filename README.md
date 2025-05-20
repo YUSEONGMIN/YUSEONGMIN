@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F747FF&repeat=true&random=false&width=435&lines=Introduce_)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F747FF&repeat=false&random=false&width=40&lines=>)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=0&color=00F747FF&repeat=true&random=false&width=55&lines=_)](https://git.io/typing-svg)  
 
 ### 안녕하세요 🙇‍♀️
 
@@ -6,7 +6,6 @@
 데이터 분석
 
 ### 프로젝트
-
 
 ---
 
@@ -24,17 +23,17 @@
 ![Hadoop](https://img.shields.io/badge/-Hadoop-FF652F?style=flat-square&logo=apache-hadoop&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
 
-> Backend  
+- <b>Backend  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
-> DB  
+- <b>DB  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-> 협업툴  
+- <b>협업툴  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
